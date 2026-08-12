@@ -83,4 +83,4 @@ Uses **SQLite** by default (file-based — no server required).
 
 ## Author
 
-Suhrid Paul — `Suhrid-lab`
+Suhrid Paul — `Suhrid-Maverick`
